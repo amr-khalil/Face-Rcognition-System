@@ -1,5 +1,6 @@
 
 # Face Recognition System
+## Amr Khalil
 <p align="center">
   <img src="media/Icon.png" width="300">
 </p>
