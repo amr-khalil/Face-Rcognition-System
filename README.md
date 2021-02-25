@@ -8,9 +8,8 @@
   <img src="media/Icon.png" width="500">
 </p>
 
-
+### Face Recognition
 <p align="center">
-  <h2></h2>
   <img src="media/1.png" width="500">
 </p>
 
