@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="media/Icon.png" width="500">
+  <img src="media/Icon.png" width="300">
 </p>
 
 ## Face Recognition
