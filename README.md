@@ -1,14 +1,16 @@
 # Face Recognition System
 ## Open Source Software
 ### Author: Amr Khalil
-
+### Frankfurt a.M.
 
 
 <p align="center">
   <img src="media/Icon.png" width="500">
 </p>
 
+
 <p align="center">
+  <h2></h2>
   <img src="media/1.png" width="500">
 </p>
 
