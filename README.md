@@ -47,3 +47,34 @@
   <img src="media/8.png" width="500">
 </p>
 
+## Instructions
+### 1. Install Python
+### 2. Download the code and unzip it
+### 3. Open the code folder form your shell
+
+### 4. Installing virtualenv
+#### On Windows:
+py -m pip install --user virtualenv
+#### On macOS and Linux:
+python3 -m pip install --user virtualenv
+
+### 5. Creating a virtual environment
+#### On Windows:
+py -m venv env
+#### On macOS and Linux:
+python3 -m venv env
+
+### 6. Activating a virtual environment
+#### On Windows:
+env\Scripts\activate
+#### On macOS and Linux:
+source env/bin/activate
+
+### 7. Install the python libraries
+pip install -r requirements.txt
+
+### 8. Run the programm
+#### On Windows:
+py main.py
+#### On macOS and Linux:
+python main.py
