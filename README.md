@@ -4,7 +4,7 @@
 #### Frankfurt a.M. | 2021 | FOM Hochschule 
 
 <p align="center">
-  <img src="media/Icon.png" width="300">
+  <img src="media/Icon.png" width="200">
 </p>
 
 ## Face Recognition
