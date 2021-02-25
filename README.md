@@ -7,6 +7,8 @@
 <p align="center">
 
   <img src="media/Icon.png" width="300">
+ 
+</p>
 
   <img src="media/1.png" width="300">
 
@@ -24,4 +26,3 @@
 
   <img src="media/8.png" width="300">
 
-</p>
