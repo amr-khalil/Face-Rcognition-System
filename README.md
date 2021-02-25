@@ -1,6 +1,5 @@
 # Face Recognition System
-## Open Source Software
-### Author: Amr Khalil
+## Author: Amr Khalil
 #### Frankfurt a.M. 2021
 #### FOM Hochschule 
 
