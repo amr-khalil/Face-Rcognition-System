@@ -2,7 +2,7 @@
 ## Open Source Software
 ### Author: Amr Khalil
 
-![Icon](media/Icon.png)
+![Icon](media/Icon.png) {:height="50%" width="50%"}
 
 ![Icon](media/1.png)
 
