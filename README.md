@@ -4,7 +4,7 @@
 
 ![Icon](media/Icon.png) {:height="50%" width="50%"}
 
-![Icon](media/1.png)
+![Icon](media/1.png){:height="50%" width="50%"}
 
 ![Icon](media/2.png)
 
