@@ -71,7 +71,8 @@ env\Scripts\activate
 source env/bin/activate
 
 ### 7. Install the python libraries
-pip install -r requirements.txt
+Follow this Video: 
+https://www.youtube.com/watch?v=xaDJ5xnc8dc&ab_channel=Pythoholic
 
 ### 8. Run the programm
 #### On Windows:
