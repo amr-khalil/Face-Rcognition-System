@@ -1,7 +1,7 @@
 
 # Face Recognition System
 ## Author: Amr Khalil
-#### Frankfurt a.M. | 2021 | FOM Hochschule 
+#### Frankfurt a.M. | 2021
 
 <p align="center">
   <img src="media/Icon.png" width="200">
